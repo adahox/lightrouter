@@ -1,5 +1,5 @@
 {
-  "name": "@adahox/light-routing",
+  "name": "@adahox/lightrouter",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adahox/light-routing.git"
+    "url": "git+https://github.com/adahox/lightrouter.git"
   },
   "keywords": [
     "light",
@@ -20,9 +20,9 @@
   "author": "Adão Dias <adahox@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adahox/light-routing/issues"
+    "url": "https://github.com/adahox/lightrouter/issues"
   },
-  "homepage": "https://github.com/adahox/light-routing#readme",
+  "homepage": "https://github.com/adahox/lightrouter#readme",
   "dependencies": {
     "express": "^4.17.2"
   },
