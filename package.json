@@ -1,0 +1,36 @@
+{
+  "name": "@adahox/light-routing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adahox/light-routing.git"
+  },
+  "keywords": [
+    "light",
+    "light-routing",
+    "routing",
+    "api",
+    "light api",
+    "fast api"
+  ],
+  "author": "Adão Dias <adahox@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adahox/light-routing/issues"
+  },
+  "homepage": "https://github.com/adahox/light-routing#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
