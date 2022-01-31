@@ -58,7 +58,7 @@ app.use('/', (req, res, next) => { next() }, route.build(path.join(__dirname, '.
 ```
 
 here is all the code 
-```
+```javascript
 const path = require('path');
 const express = require('express');
 const { lightRoute } = require('../index');
